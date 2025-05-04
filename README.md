@@ -44,7 +44,7 @@ Passionate about software development and new technologies, I've had the opportu
   </a>
 </div>
 
-<hr>
+<!--<hr>-->
 
 ## 💻 Tech Stack:
 
@@ -94,7 +94,7 @@ Passionate about software development and new technologies, I've had the opportu
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </p>
 
-<hr>
+<!--<hr>-->
 
 ## ⚡️ GitHub Stats
 
@@ -102,7 +102,7 @@ Passionate about software development and new technologies, I've had the opportu
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
 
-<hr>
+<!--<hr>-->
 
 ## 🐍 My GitHub contributions
 
