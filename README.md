@@ -3,6 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Anatole+Aze+!;" />
 </h1>
+</div>
 
 ## Back-end Python & PHP Software Engineer
 
@@ -25,7 +26,7 @@ Passionate about software development and new technologies, I've had the opportu
 </p>
 
 <p align="left">
-🤝 I'm currently learning: <b>Kubernetes, React, and DevOps best practices</b>.
+🤝 I'm currently learning : <b>Kubernetes, React, and DevOps best practices</b>.
 </p>
 
 <p align="left">
