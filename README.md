@@ -1,21 +1,24 @@
 <div align="center"> 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Anatole+Aze!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Anatole+Aze+!;" />
 </h1>
 
-### Ingénieur logiciel Back-end Python & PHP passionné par la construction d'applications web belles, fonctionnelles et centrées sur l'utilisateur.
+### Back-end Python & PHP Software Engineer
 
-- 🔭 Je travaille actuellement sur **Des projets d’automatisation, de scraping, et d’indexation sémantique avec Python, en intégrant des bases vectorielles, APIs, et pipeline de production (tests, CI/CD, conteneurisation).**
+Passionate about software development and new technologies, I've had the opportunity to design a variety of projects ranging from dynamic web applications to systems exploiting data and artificial intelligence.
 
-- 👯 Je cherche à collaborer sur **Des applications back-end, des APIs intelligentes, des projets open source en Python, PHP ou JavaScript, et des outils liés à la donnée (NLP, ML, recherche sémantique).**
+💻 My main expertise lies in Python, PHP and JavaScript, with a strong focus on code quality, best practices and team collaboration in Agile environments.
 
-- 🤝 J'apprends actuellement **Kubernetes, React, Angular**
+✨ Curious, versatile and always committed, I'm motivated by technical challenges and projects with concrete impact. Today, I want to contribute to innovative, scalable and useful solutions, while continuing to learn on a daily basis.
 
-- 👨‍💻 Mes projets sont disponibles sur : [https://anatoleaze.fr/](https://anatoleaze.fr/)
+### 🚀 About me
 
-- ⚡ Fun fact : **J’ai développé un chatbot juridique connecté à ChatGPT pour répondre automatiquement à des questions à partir de textes de lois vectorisés !**
+🔭 I'm currently working on **automation and scraping projects with Python, integrating vector bases, APIs, and production pipelines (tests, CI/CD, containerization).**
 
+🤝 I'm currently learning: **Kubernetes, React, and DevOps best practices**.
+
+⚡ Fun fact : ** I code clean... until the deadline approaches.**
 
 <br>
 
@@ -30,7 +33,7 @@
 
 <hr>
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <br>
 
@@ -78,12 +81,9 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </p>
 
-
 <hr>
 
-## ⚡️ GitHub Stats
-
-<br>
+### ⚡️ GitHub Stats
 
 <div align=center>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
@@ -91,15 +91,12 @@
 
 <hr>
 
-### 🐍 Mes contributions GitHub
+### 🐍 My GitHub contributions
 
 <div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anatoleaze/snk/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anatoleaze/snk/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Anatoleaze/snk/output/github-snake.svg" />
   </picture>
-
 </div>
-
