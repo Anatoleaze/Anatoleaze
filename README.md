@@ -4,21 +4,33 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Anatole+Aze+!;" />
 </h1>
 
-### Back-end Python & PHP Software Engineer
+## Back-end Python & PHP Software Engineer
 
+<p align="left">
 Passionate about software development and new technologies, I've had the opportunity to design a variety of projects ranging from dynamic web applications to systems exploiting data and artificial intelligence.
+</p>
 
+<p align="left">
 💻 My main expertise lies in Python, PHP and JavaScript, with a strong focus on code quality, best practices and team collaboration in Agile environments.
+</p>
 
+<p align="left">
 ✨ Curious, versatile and always committed, I'm motivated by technical challenges and projects with concrete impact. Today, I want to contribute to innovative, scalable and useful solutions, while continuing to learn on a daily basis.
+</p>
 
-### 🚀 About me
+## 🚀 About me
 
-🔭 I'm currently working on **automation and scraping projects with Python, integrating vector bases, APIs, and production pipelines (tests, CI/CD, containerization).**
+<p align="left">
+🔭 I'm currently working on <b>automation and scraping projects with Python, integrating vector bases, APIs, and production pipelines (tests, CI/CD, containerization)</b>.
+</p>
 
-🤝 I'm currently learning: **Kubernetes, React, and DevOps best practices**.
+<p align="left">
+🤝 I'm currently learning: <b>Kubernetes, React, and DevOps best practices</b>.
+</p>
 
-⚡ Fun fact : ** I code clean... until the deadline approaches.**
+<p align="left">
+⚡ Fun fact : <b>I code clean... until the deadline approaches</b>.
+</p>
 
 <br>
 
@@ -33,7 +45,7 @@ Passionate about software development and new technologies, I've had the opportu
 
 <hr>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <br>
 
@@ -83,7 +95,7 @@ Passionate about software development and new technologies, I've had the opportu
 
 <hr>
 
-### ⚡️ GitHub Stats
+## ⚡️ GitHub Stats
 
 <div align=center>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
@@ -91,7 +103,7 @@ Passionate about software development and new technologies, I've had the opportu
 
 <hr>
 
-### 🐍 My GitHub contributions
+## 🐍 My GitHub contributions
 
 <div align="center">
   <picture>
